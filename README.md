@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-<a href="#"><img alt="will zittlau github" src="https://github.com/willzittlau/willzittlau/blob/main/name.svg"/></a>
+![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willzittlau&count_private=true&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willzittlau&langs_count=6&layout=compact)
 
 <!--
 **willzittlau/willzittlau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="#"><img alt="will zittlau github" src="https://github.com/willzittlau/willzittlau/blob/main/name.svg"/></a>
 
 Here are some ideas to get you started:
 
